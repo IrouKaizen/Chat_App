@@ -7,7 +7,7 @@
                 <img src="after.jpg" alt="">
                 <div class="details">
                     <span>Irou Kaizen</span>
-                    <p>Active now</p>
+                    <p>Online</p>
                 </div>
         </header>
             <div class="chat-box">
