@@ -30,12 +30,12 @@
                 <div class="chat incoming">
                     <img src="after.jpg" alt="">
                     <div class="details">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, dolores. Laboriosam ullam doloremque impedit nihil provident </p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, dolores. </p>
                     </div>
                 </div>
                 <div class="chat outgoing">
                     <div class="details">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos, dolores. Laboriosam ullam doloremque impedit nihil provident </p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elits. Laboriosam ullam doloremque impedit nihil provident </p>
                     </div>
                 </div>
                 <div class="chat incoming">
